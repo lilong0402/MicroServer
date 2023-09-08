@@ -15,6 +15,14 @@
     <file url="file://$PROJECT_DIR$/coupon-calculation-serv/coupon-calculation-impl/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/coupon-calculation-serv/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/coupon-calculation-serv/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/coupon-customer-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/coupon-customer-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/coupon-customer-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/coupon-customer-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/coupon-customer-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/coupon-customer-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coupon-customer-serv/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

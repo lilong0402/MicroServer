@@ -11,6 +11,7 @@
     <modules>
         <module>cloud-template-serv</module>
         <module>coupon-calculation-serv</module>
+        <module>coupon-customer-serv</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
